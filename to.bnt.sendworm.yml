@@ -34,6 +34,7 @@ modules:
           type: git
           tag-pattern: ^v([\d.]+)$
       # generated with flatpak-node-generator
+        commit: d933961ea13b6e2edb33baafd7e1b5857f59b312
       - node-sources.json
       # generated with flatpak-cargo-generator
       - cargo-sources.json
